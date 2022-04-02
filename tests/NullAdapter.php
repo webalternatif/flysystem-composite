@@ -21,6 +21,11 @@ class NullAdapter implements FilesystemAdapter
         return false;
     }
 
+    public function directoryExists(string $path): bool
+    {
+        return false;
+    }
+
     public function write(string $path, string $contents, Config $config): void
     {
     }
