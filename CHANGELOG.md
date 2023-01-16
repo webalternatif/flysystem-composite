@@ -1,8 +1,8 @@
-## v0.2.1 (unreleased)
+## v0.2.1 (January 16, 2023)
 
 ### ✨ New features
 
-* Add support of PHP 8.2
+* Add support of PHP 8.2 ([#1](https://github.com/webalternatif/flysystem-composite/pull/1))
 
 ## v0.2.0 (April 2, 2022)
 
