@@ -1,3 +1,9 @@
+## v0.2.1 (unreleased)
+
+### ✨ New features
+
+* Add support of PHP 8.2
+
 ## v0.2.0 (April 2, 2022)
 
 ### 💥 Breaking changes
