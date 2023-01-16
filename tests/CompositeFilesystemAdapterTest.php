@@ -8,6 +8,7 @@ use League\Flysystem\FilesystemAdapter;
 
 /**
  * @internal
+ *
  * @covers \Webf\Flysystem\Composite\CompositeFilesystemAdapter
  */
 class CompositeFilesystemAdapterTest
