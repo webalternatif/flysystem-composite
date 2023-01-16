@@ -3,7 +3,7 @@
 [![Source code](https://img.shields.io/badge/source-GitHub-blue)](https://github.com/webalternatif/flysystem-composite)
 [![Software license](https://img.shields.io/github/license/webalternatif/flysystem-composite)](https://github.com/webalternatif/flysystem-composite/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/webalternatif/flysystem-composite)](https://github.com/webalternatif/flysystem-composite/issues)
-[![Test status](https://img.shields.io/github/workflow/status/webalternatif/flysystem-composite/test?label=tests)](https://github.com/webalternatif/flysystem-composite/actions/workflows/test.yml)
+[![Test status](https://img.shields.io/github/actions/workflow/status/webalternatif/flysystem-composite/tests.yml?branch=master&label=tests)](https://github.com/webalternatif/flysystem-composite/actions/workflows/test.yml)
 [![Psalm coverage](https://shepherd.dev/github/webalternatif/flysystem-composite/coverage.svg)](https://psalm.dev)
 [![Psalm level](https://shepherd.dev/github/webalternatif/flysystem-composite/level.svg)](https://psalm.dev)
 
