@@ -1,12 +1,12 @@
-## v0.3.0 (unreleased)
+## v0.3.0 (February 8, 2025)
 
 ### 💥 Breaking changes
 
-* Drop support of PHP 8.0
+* Drop support of PHP 8.0 ([#6](https://github.com/webalternatif/flysystem-composite/pull/6))
 
 ### ✨ New features
 
-* Add support of PHP 8.4
+* Add support of PHP 8.4 ([#6](https://github.com/webalternatif/flysystem-composite/pull/6))
 
 ## v0.2.2 (January 8, 2024)
 
