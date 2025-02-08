@@ -1,3 +1,13 @@
+## v0.3.0 (unreleased)
+
+### 💥 Breaking changes
+
+* Drop support of PHP 8.0
+
+### ✨ New features
+
+* Add support of PHP 8.4
+
 ## v0.2.2 (January 8, 2024)
 
 ### ✨ New features
