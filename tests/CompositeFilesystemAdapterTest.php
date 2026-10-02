@@ -11,7 +11,7 @@ use League\Flysystem\FilesystemAdapter;
  *
  * @covers \Webf\Flysystem\Composite\CompositeFilesystemAdapter
  */
-class CompositeFilesystemAdapterTest
+final class CompositeFilesystemAdapterTest
 {
     public function test_types(): void
     {
