@@ -2,11 +2,11 @@
 
 ### 💥 Breaking changes
 
-* Drop support of PHP 8.1
+* Drop support of PHP 8.1 ([#7](https://github.com/webalternatif/flysystem-composite/pull/7))
 
 ### ✨ New features
 
-* Add support of PHP 8.5
+* Add support of PHP 8.5 ([#7](https://github.com/webalternatif/flysystem-composite/pull/7))
 
 ## v0.3.0 (February 8, 2025)
 
